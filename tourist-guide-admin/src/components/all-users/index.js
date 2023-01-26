@@ -1,0 +1,1 @@
+export { AllUser as default } from "./all-users";

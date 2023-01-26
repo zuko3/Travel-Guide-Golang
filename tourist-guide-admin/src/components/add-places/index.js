@@ -1,0 +1,1 @@
+export { AddPlaces as default } from "./add-places";

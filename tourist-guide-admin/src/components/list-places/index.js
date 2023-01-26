@@ -1,0 +1,1 @@
+export { ListPlaces as default } from "./list-places";

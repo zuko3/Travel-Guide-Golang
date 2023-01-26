@@ -1,0 +1,1 @@
+export { EditAdmin as default } from "./admin-profile-edit";

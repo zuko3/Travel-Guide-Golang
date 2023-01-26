@@ -1,0 +1,12 @@
+.login .header{
+    margin-bottom: 25px !important;
+}
+
+.login input{
+    border: 2px solid black !important;
+}
+
+.login button{
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+}

@@ -1,0 +1,1 @@
+export { ViewModifyPlace as default } from "./view-modify";
